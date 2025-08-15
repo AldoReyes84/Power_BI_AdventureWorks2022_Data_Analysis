@@ -9,7 +9,7 @@ This section connects Power BI to SQL Server using **Power Query** with an **imp
 ![Power Query Connection](https://github.com/user-attachments/assets/7696424c-df0c-4e99-be34-430551cbe546" />)
 to begin data exploration:
 
-![Star Schema](<img width="697" height="423" alt="image" src="https://github.com/user-attachments/assets/fdb2d333-68f9-43b3-8db3-0df9401738e2" />) is using Power BI visualizations for the **FactResellerSales** table:
+![Star Schema] <img width="697" height="423" alt="image" src="https://github.com/user-attachments/assets/fdb2d333-68f9-43b3-8db3-0df9401738e2" /> is using Power BI visualizations for the **FactResellerSales** table:
 
 - Quantity  
 - Product Cost  
