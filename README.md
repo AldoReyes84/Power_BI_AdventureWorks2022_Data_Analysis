@@ -24,3 +24,5 @@ To begin data exploration using Power BI visualizations for the **FactResellerSa
 - Margin Percentage *(DAX measure)*
 
 <img width="1261" height="720" alt="image" src="https://github.com/user-attachments/assets/4d7eb5e2-4c36-4ad9-b45c-282dc14c6a11" />
+
+The interpretation of these results are addresserd in the [Data Analysis Project/FactResellersSales_Table](https://github.com/AldoReyes84/Data-Analisys_For-AdventureWorksDW2022_SQL_PowerBI_Python_Excel/tree/main#factresellerssales-table) 
