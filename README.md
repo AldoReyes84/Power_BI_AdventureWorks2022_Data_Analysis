@@ -21,7 +21,5 @@ And begin with a simple data visualization to bring the same results we got on S
 - Gross Margin (DAX measure)
 - Margin Percentage (DAX measure)
 
-<img width="1630" height="671" alt="image" src="https://github.com/user-attachments/assets/ff9c6822-9708-4916-b1f5-4442079603b0" />
-
 <img width="1261" height="720" alt="image" src="https://github.com/user-attachments/assets/4d7eb5e2-4c36-4ad9-b45c-282dc14c6a11" />
 
