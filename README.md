@@ -7,14 +7,14 @@ Go back to [Data Analysis Project](https://github.com/AldoReyes84/Data-Analisys_
 This section connects Power BI to SQL Server using **Power Query** with an **imported query** approach:
 
 SQL Server Connection
+
 <img width="701" height="511" alt="image" src="https://github.com/user-attachments/assets/7696424c-df0c-4e99-be34-430551cbe546" />
 
-to begin data exploration:
-
 Star Schema
+
 <img width="697" height="423" alt="image" src="https://github.com/user-attachments/assets/fdb2d333-68f9-43b3-8db3-0df9401738e2" />
 
-is using Power BI visualizations for the **FactResellerSales** table:
+To begin data exploration using Power BI visualizations for the **FactResellerSales** table:
 
 - Quantity  
 - Product Cost  
@@ -24,4 +24,3 @@ is using Power BI visualizations for the **FactResellerSales** table:
 - Margin Percentage *(DAX measure)*
 
 <img width="1261" height="720" alt="image" src="https://github.com/user-attachments/assets/4d7eb5e2-4c36-4ad9-b45c-282dc14c6a11" />
-
