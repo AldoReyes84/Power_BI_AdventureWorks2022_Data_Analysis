@@ -4,22 +4,18 @@ Go back to [Data Analysis Project](https://github.com/AldoReyes84/Data-Analisys_
 
 # Power_BI_AdventureWorks2022_Data_Analysis
 
-Connnect Power BI to SQL Server using Power Query get data option creating a imported query
+This section connects Power BI to SQL Server using **Power Query** with an **imported query** approach:
 
-<img width="701" height="511" alt="image" src="https://github.com/user-attachments/assets/7696424c-df0c-4e99-be34-430551cbe546" />
+![Power Query Connection](https://github.com/user-attachments/assets/7696424c-df0c-4eto begin data exploration:
 
-Lets create a simple star squema with the few tables we import to begin the exploration
+![Star Schema](https://github.com/user-attachments/assets/fdb2d333-68f9-43is using Power BI visualizations for the **FactResellerSales** table:
 
-<img width="697" height="423" alt="image" src="https://github.com/user-attachments/assets/fdb2d333-68f9-43b3-8db3-0df9401738e2" />
+- Quantity  
+- Product Cost  
+- Total Discount  
+- Sales Amount  
+- Gross Margin *(DAX measure)*  
+- Margin Percentage *(DAX measure)*
 
-And begin with a simple data visualization to bring the same results we got on SQL Server for **FactResellersTable**
-
-- Quantity
-- Product Cost
-- Total Discount
-- Sales Amount
-- Gross Margin (DAX measure)
-- Margin Percentage (DAX measure)
-
-<img width="1261" height="720" alt="image" src="https://github.com/user-attachments/assets/4d7eb5e2-4c36-4ad9-b45c-282dc14c6a11" />
+![Power BI Visualization](https://github.com/user-attachments/assets/4d7eb5e2-4c36-4ad9-b45c-282dc
 
