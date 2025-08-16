@@ -33,7 +33,7 @@ The interpretation of these results are addresserd in the [Data Analysis Project
 
 Using the **Recent Sources** lets bring the **FactInternetSales** 
 
- <img width="867" height="808" alt="image" src="https://github.com/user-attachments/assets/30509f2a-51f4-4aa8-8c4e-d825f1d0c5ff" />
+ <img width="433" height="404" alt="image" src="https://github.com/user-attachments/assets/30509f2a-51f4-4aa8-8c4e-d825f1d0c5ff" />
 
 Create two more measures
 
