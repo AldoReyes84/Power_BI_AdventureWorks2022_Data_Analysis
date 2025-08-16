@@ -35,16 +35,11 @@ Using the **Recent Sources** lets bring the **FactInternetSales**
 
  <img width="867" height="808" alt="image" src="https://github.com/user-attachments/assets/30509f2a-51f4-4aa8-8c4e-d825f1d0c5ff" />
 
-and create similar visaulization to what we did with Resellers Sales
+Create two more measures
 
-In order to do that, create two more measures
-
-   InternetGrossMargin = CALCULATE(
-                    sum(FactInternetSales[SalesAmount])-SUM(FactInternetSales[TotalProductCost]))
+               InternetGrossMargin = CALCULATE(sum(FactInternetSales[SalesAmount])-SUM(FactInternetSales[TotalProductCost]))
 And  
   
-  Internet Margin Percentage = CALCULATE(
-                                ([InternetGrossMargin]/sum(FactInternetSales[SalesAmount]))
-                                )
+              Internet Margin Percentage = CALCULATE(([InternetGrossMargin]/sum(FactInternetSales[SalesAmount])))
 
 <img width="1201" height="730" alt="image" src="https://github.com/user-attachments/assets/55fd3d19-8bc0-430c-8d69-89a50b97b3c9" />
