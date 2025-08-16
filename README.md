@@ -42,4 +42,13 @@ And
   
               Internet Margin Percentage = CALCULATE(([InternetGrossMargin]/sum(FactInternetSales[SalesAmount])))
 
+To begin data exploration using Power BI visualizations for the **FactInternetSales** table:
+
+- Quantity  
+- Product Cost  
+- Total Discount  
+- Sales Amount  
+- Internet Gross Margin *(DAX measure)*  
+- Internet Margin Percentage *(DAX measure)*
+
 <img width="1201" height="730" alt="image" src="https://github.com/user-attachments/assets/55fd3d19-8bc0-430c-8d69-89a50b97b3c9" />
