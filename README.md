@@ -14,7 +14,7 @@ SQL Server Connection
 
 Star Schema
 
-<img width="697" height="423" alt="image" src="https://github.com/user-attachments/assets/fdb2d333-68f9-43b3-8db3-0df9401738e2" />
+<img width="577" height="313" alt="image" src="https://github.com/user-attachments/assets/fdb2d333-68f9-43b3-8db3-0df9401738e2" />
 
 To begin data exploration using Power BI visualizations for the **FactResellerSales** table:
 
