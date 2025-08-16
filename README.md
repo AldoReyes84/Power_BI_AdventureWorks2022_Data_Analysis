@@ -10,7 +10,7 @@ This section connects Power BI to SQL Server using **Power Query** with an **imp
 
 SQL Server Connection
 
-<img width="701" height="511" alt="image" src="https://github.com/user-attachments/assets/7696424c-df0c-4e99-be34-430551cbe546" />
+<img width="401" height="311" alt="image" src="https://github.com/user-attachments/assets/7696424c-df0c-4e99-be34-430551cbe546" />
 
 Star Schema
 
